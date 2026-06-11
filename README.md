@@ -9,7 +9,7 @@
 <br/>
 
 <!-- BADGE ROW -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Sanyukt-0&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 ![Game Dev](https://img.shields.io/badge/GAME_DEV-Unreal_Engine_5.6-7c3aed?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-c084fc?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Open to Collabs](https://img.shields.io/badge/Open_To-Collabs-a78bfa?style=for-the-badge&logo=handshake&logoColor=white)
@@ -131,15 +131,15 @@ $ ./current_mission.sh
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&ring_color=7c3aed"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanyukt-0&show_icons=true&theme=midnight-purple&hide_border=true&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&ring_color=7c3aed"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&title_color=c084fc&text_color=e2e8f0&bg_color=0d1117"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyukt-0&layout=compact&theme=midnight-purple&hide_border=true&title_color=c084fc&text_color=e2e8f0&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280"/>
+<img src="https://streak-stats.demolab.com?user=Sanyukt-0&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280"/>
 
 </div>
 
@@ -149,7 +149,7 @@ $ ./current_mission.sh
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0d1117&color=c084fc&line=7c3aed&point=a78bfa&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanyukt-0&theme=github-compact&bg_color=0d1117&color=c084fc&line=7c3aed&point=a78bfa&area=true&hide_border=true)](https://github.com/Sanyukt-0)
 
 </div>
 
@@ -159,7 +159,7 @@ $ ./current_mission.sh
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&row=1&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sanyukt-0&theme=discord&no-frame=true&row=1&column=7&margin-w=10"/>
 
 </div>
 
@@ -184,8 +184,8 @@ No activity tracked yet — watch this space 👀
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanyukt-0/Sanyukt-0/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sanyukt-0/Sanyukt-0/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -196,7 +196,7 @@ No activity tracked yet — watch this space 👀
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanyukt-0&theme=github_dark"/>
 
 </div>
 
@@ -206,10 +206,10 @@ No activity tracked yet — watch this space 👀
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-@YOUR__USERNAME-0d1117?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=1a0a2e)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanyukt_Bhatt-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=1a0a2e)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter/X](https://img.shields.io/badge/Twitter-@YOUR__HANDLE-0d1117?style=for-the-badge&logo=x&logoColor=c084fc&labelColor=1a0a2e)](https://twitter.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=1a0a2e)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-@Sanyukt--0-0d1117?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=1a0a2e)](https://github.com/Sanyukt-0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanyukt_Bhatt-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=1a0a2e)](https://linkedin.com/in/sanyukt-bhatt)
+[![Twitter/X](https://img.shields.io/badge/Twitter-@Sanyukt__0-0d1117?style=for-the-badge&logo=x&logoColor=c084fc&labelColor=1a0a2e)](https://twitter.com/Sanyukt_0)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=1a0a2e)](mailto:your.email@gmail.com)
 
 </div>
 
