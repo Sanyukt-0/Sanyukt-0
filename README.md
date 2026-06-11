@@ -1,127 +1,232 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:58a6ff&text=Sanyukt%20Bhatt&fontColor=e6edf3&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Unreal%20Engine%205%20%7C%20India&descAlignY=58&descColor=7ee787"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:1a0a2e,100:0d1117&text=SANYUKT%20BHATT&fontColor=c084fc&fontSize=62&animation=fadeIn&fontAlignY=40&desc=Game%20Developer%20%E2%80%A2%20Unreal%20Engine%205%20%E2%80%A2%20India&descAlignY=60&descColor=a78bfa&stroke=7c3aed&strokeWidth=2"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=18\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=700\&lines=%3E+Crafting+worlds%2C+one+Blueprint+at+a+time;%3E+Building+GhostGame-UE5+%F0%9F%91%BB;%3E+C%2B%2B+%7C+Blueprints+%7C+UE5.6;%3E+Stealth+Games+%7C+Chaos+Physics+%7C+PCG)](https://git.io/typing-svg)
+<!-- ANIMATED TAGLINE -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=%E2%96%B6+Crafting+worlds%2C+one+Blueprint+at+a+time;%E2%96%B6+Building+GhostGame-UE5+%F0%9F%91%BB;%E2%96%B6+C%2B%2B+%7C+Blueprints+%7C+UE5.6;%E2%96%B6+Stealth+Games+%7C+Chaos+Physics+%7C+PCG;%E2%96%B6+It%27s+not+a+bug+%E2%80%94+it%27s+an+unscripted+ragdoll+feature.)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=58a6ff\&style=for-the-badge)
+<br/>
+
+<!-- BADGE ROW -->
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Game Dev](https://img.shields.io/badge/GAME_DEV-Unreal_Engine_5.6-7c3aed?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-17-c084fc?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Open to Collabs](https://img.shields.io/badge/Open_To-Collabs-a78bfa?style=for-the-badge&logo=handshake&logoColor=white)
 
 </div>
 
 ---
 
-# ⚡ About Me
+<div align="center">
+
+```
+██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗ ██████╗  █████╗ ███╗   ███╗███████╗
+██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝██╔════╝ ██╔══██╗████╗ ████║██╔════╝
+██║  ███╗███████║██║   ██║███████╗   ██║   ██║  ███╗███████║██╔████╔██║█████╗  
+██║   ██║██╔══██║██║   ██║╚════██║   ██║   ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝  
+╚██████╔╝██║  ██║╚██████╔╝███████║   ██║   ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗
+ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
+```
+
+</div>
+
+---
+
+## 〈 `/whoami` 〉
 
 ```cpp
-class SanyuktBhatt {
-public:
-    string role      = "Game Developer";
-    string engine    = "Unreal Engine 5.6";
-    string project   = "GhostGame-UE5";
-    string focus     = "Stealth & Puzzle Games";
+// sanyukt_bhatt.hpp — v2026
+#pragma once
+#include <unreal_engine/5.6>
+#include <ambitions/commercial_game.h>
 
-    vector<string> skills = {
-        "C++",
-        "Blueprints",
-        "AI Systems",
-        "Chaos Physics",
-        "PCG"
+class SanyuktBhatt : public GameDeveloper {
+public:
+    const std::string role       = "Game Developer";
+    const std::string engine     = "Unreal Engine 5.6";
+    const std::string project    = "GhostGame-UE5";
+    const std::string focus      = "Stealth & Puzzle Games";
+    const std::string location   = "India 🇮🇳";
+    const std::string fuel       = "Chai + 2AM Commits ☕";
+
+    std::vector<std::string> skills = {
+        "C++", "Blueprints",
+        "AI Behavior Trees", "Chaos Physics",
+        "Procedural Content Generation (PCG)",
+        "Level Design", "Stealth Mechanics"
     };
 
-    bool openToCollabs = true;
+    std::map<std::string, bool> status = {
+        {"open_to_collabs",   true},
+        {"shipping_ghostgame",true},
+        {"learning_pcg",      true},
+        {"surviving_on_chai", true}
+    };
 };
 ```
 
 ---
 
-# 📊 Developer Dashboard
+## 〈 `tech.stack` 〉
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+### 🎮 Engine & Tools
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5.6-0d1117?style=for-the-badge&logo=unrealengine&logoColor=c084fc)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=c084fc)
+![Blueprints](https://img.shields.io/badge/Blueprints-0d1117?style=for-the-badge&logo=unrealengine&logoColor=a78bfa)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-0d1117?style=for-the-badge&logo=visualstudio&logoColor=c084fc)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+### ⚙️ Systems & Features
+![Chaos Physics](https://img.shields.io/badge/Chaos_Physics-0d1117?style=for-the-badge&logo=unrealengine&logoColor=a78bfa)
+![PCG](https://img.shields.io/badge/PCG_Framework-0d1117?style=for-the-badge&logo=unrealengine&logoColor=c084fc)
+![Behavior Trees](https://img.shields.io/badge/AI_Behavior_Trees-0d1117?style=for-the-badge&logo=unrealengine&logoColor=a78bfa)
+![Nanite](https://img.shields.io/badge/Nanite_+_Lumen-0d1117?style=for-the-badge&logo=unrealengine&logoColor=c084fc)
+
+### 🛠️ Dev Stack
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=c084fc)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=c084fc)
+![Windows](https://img.shields.io/badge/Windows_11-0d1117?style=for-the-badge&logo=windows11&logoColor=a78bfa)
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-[![Sanyukt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=github-compact)](https://github.com/YOUR_USERNAME)
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7&margin-w=15"/>
-
-</div>
-
----
-
-# ⌛ WakaTime Stats
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked yet
-```
-
-<!--END_SECTION:waka-->
-
----
-
-# 🎮 Current Mission
+## 〈 `git log --oneline --missions` 〉
 
 ```bash
-🔧 Building  -> GhostGame-UE5
-📖 Learning  -> PCG + Chaos Physics
-🎯 Goal      -> First Commercial Game
-☕ Fuel      -> Chai + 2AM Commits
+$ ./current_mission.sh
+
+┌─────────────────────────────────────────────────────────┐
+│                  🎮  ACTIVE MISSION                      │
+├─────────────────────────────────────────────────────────┤
+│  🔧 Building   →  GhostGame-UE5 (UE5.6 + C++)           │
+│  📖 Learning   →  PCG Framework + Chaos Physics          │
+│  🎯 Goal       →  First Commercial Game Release          │
+│  🧩 Mechanic   →  Stealth AI with Behavior Trees         │
+│  ☕ Fuel       →  Chai + 2AM Commits                     │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🚀 Featured Projects
+## 〈 `projects --featured` 〉
 
-| Project              | Description                                            |
-| -------------------- | ------------------------------------------------------ |
-| 👻 GhostGame-UE5     | Top-down stealth puzzle game built using UE5.6 and C++ |
-| 💻 OS_Lab_Assignment | Process Scheduling, Memory Management & IPC            |
-| 🧠 Future Project    | Procedural Dungeon Generator using PCG                 |
+<div align="center">
+
+| &nbsp;&nbsp;# | Project | Description | Stack |
+|:---:|---|---|---|
+| 👻 | **GhostGame-UE5** | Top-down stealth puzzle game with AI patrol systems | `UE5.6` `C++` `Blueprints` |
+| 💻 | **OS_Lab_Assignment** | Process scheduling, memory management & IPC | `C` `Linux` |
+| 🌀 | **PCG Dungeon** *(WIP)* | Procedural dungeon generator with dynamic layouts | `PCG` `UE5.6` |
+| 🧠 | **AI Perception System** *(Planned)* | Custom sight & sound AI for stealth encounters | `C++` `Behavior Trees` |
+
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+## 〈 `dashboard --stats` 〉
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&ring_color=7c3aed"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&title_color=c084fc&text_color=e2e8f0&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280"/>
+
+</div>
+
+---
+
+## 〈 `graph --activity` 〉
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0d1117&color=c084fc&line=7c3aed&point=a78bfa&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+## 〈 `trophies --display` 〉
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&row=1&column=7&margin-w=10"/>
+
+</div>
+
+---
+
+## 〈 `wakatime --tracked` 〉
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+No activity tracked yet — watch this space 👀
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 〈 `snake --contribution-grid` 〉
+
+<div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-<img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
 
 ---
 
-# 🌌 3D Contribution Calendar
+## 〈 `summary --profile` 〉
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
 
+</div>
+
+---
+
+## 〈 `connect --links` 〉
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@YOUR__USERNAME-0d1117?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=1a0a2e)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanyukt_Bhatt-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=1a0a2e)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter/X](https://img.shields.io/badge/Twitter-@YOUR__HANDLE-0d1117?style=for-the-badge&logo=x&logoColor=c084fc&labelColor=1a0a2e)](https://twitter.com/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=1a0a2e)](mailto:YOUR_EMAIL)
+
+</div>
+
 ---
 
 <div align="center">
 
-### "It's not a bug — it's an unscripted ragdoll feature."
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   " It's not a bug — it's an unscripted ragdoll         │
+│                          feature. "                      │
+│                                                          │
+│                              — Sanyukt Bhatt, probably   │
+└──────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a0a2e,100:0d1117&section=footer"/>
 
 </div>
